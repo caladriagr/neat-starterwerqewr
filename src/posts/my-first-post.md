@@ -1,60 +1,23 @@
 ---
-title: This is my first post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
-author: Surjith S M
-date: 2020-09-01
+title: ABOUT US
+description: ABOUT US
+author: Admin
+date: 2021-10-04T19:16:49.509Z
 tags:
   - left
   - center
   - right
 ---
-# This is a Heading h1
+# About Us
 
-## This is a Heading h2
+Το Κέντρο Ρωσίας και Ευρασίας δημιουργήθηκε με απόφαση του Διοικητικού Συμβουλίου του Ινστιτούτου Διεθνών Σχέσεων του Παντείου Πανεπιστημίου τον Νοέμβριο του 2004.  Τον Σεπτέμβριο του 2008 το Διοικητικό Συμβούλιο του ΙΔΙΣ ενέκρινε την επέκταση των δραστηριοτήτων του Κέντρου, το οποίο μετονομάστηκε σε Κέντρο Ρωσίας, Ευρασίας και Νοτιο-ανατολικής Ευρώπης. Είναι ένα αμιγώς επιστημονικό ερευνητικό κέντρο που ασχολείται με τη μελέτη και ανάλυση των εξελίξεων στον ευρασιατικό χώρο με έμφαση στην περιοχή της πρώην Σοβιετικής Ένωσης καθώς και στην Νοτιο-ανατολική Ευρώπη. Αποτελεί δέσμευση η υπεύθυνη και έγκριτη πληροφόρηση της κοινής γνώμης ενώ πάγια επιδίωξη μας είναι η αναβάθμιση του επιπέδου γνώσης καθώς και η επιμόρφωση σε θέματα σχετικά με τη Ρωσία, την ευρύτερη περιοχή της Ευρασίας και των Βαλκανίων.
 
-###### This is a Heading h6
+Το ερευνητικό πεδίο καλύπτει γεωγραφικά το σύνολο του μετασοβιετικού χώρου και της Νοτιο-ανατολικής Ευρώπης, όπως αυτός εκτείνεται από την Θάλασσα της Βαλτικής μέχρι την Ιαπωνία και ο οποίος διατηρεί γεωγραφική εγγύτητα με ασταθείς περιοχές του πλανήτη όπως η Μέση Ανατολή και η Ανατολική Ασία, καθώς και τα Βαλκάνια. Το ΤΟ.ΡΕ.ΝΕ. αποτελείται από στελεχικό δυναμικό 30 επιστημόνων και δόκιμων ερευνητών με συντονιστή τον Δρ.  Κωνσταντίνο Φίλη.
 
-## Emphasis
+## Research Teams
 
-*This text will be italic*\
-*This will also be italic*
+* FPDS
+* ECONENERENV
+* HUMAN RIGHTS
+* SPECIAL AFFAIRS
 
-**This text will be bold**\
-**This will also be bold**
-
-*You **can** combine them*
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-
-  * Item 2a
-  * Item 2b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-   1. Item 3a
-   2. Item 3b
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Inline code
-
-This web site is using `markedjs/marked`.
